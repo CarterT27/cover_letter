@@ -1,0 +1,9 @@
+# compiled files
+*.pdf
+
+# MacOS specific files (Apple sucks)
+.DS_Store
+
+# Personal files
+letter.yml
+signature.png

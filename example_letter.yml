@@ -1,0 +1,18 @@
+personal:
+  name: Carter Tran
+  phone: "123-456-7890"
+  email: "carter@gmail.com"
+  linkedin: linkedin.com/in/cartertran
+  site: github.com/cartert27
+recipient:
+  prefix: Dr.
+  first: James
+  last: Bond
+  city: San Diego
+  state: CA
+  phone: ""
+  email: "bond@gmail.edu"
+paragraphs:
+  - "Qui minim nisi eiusmod. Nisi eiusmod ut lorem irure minim officia esse. Ut lorem irure minim. Irure minim officia esse ad quis. Officia, esse ad quis excepteur."
+  - "Laboris aliqua commodo, irure nisi aliquip eiusmod do. Irure, nisi aliquip eiusmod. Eiusmod do exercitation magna exercitation ex. Exercitation magna exercitation ex deserunt aliqua. Exercitation ex deserunt, aliqua. Aliqua tempor esse, sunt elit non. Sunt elit non, velit. Velit aliqua nisi ipsum in consectetur. Nisi ipsum in consectetur."
+  - "Adipiscing sunt commodo enim voluptate ea. Commodo enim voluptate ea aliquip nisi tempor. Voluptate, ea aliquip nisi tempor tempor aliqua. Nisi, tempor tempor aliqua fugiat nulla laboris. Aliqua fugiat, nulla laboris do mollit. Laboris do mollit ex adipiscing eu. Mollit ex adipiscing eu cillum labore. Adipiscing eu cillum labore est, amet elit sed."
