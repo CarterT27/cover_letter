@@ -1,3 +1,3 @@
-# Resume
+# Cover Letter
 
 Created using Typst.
