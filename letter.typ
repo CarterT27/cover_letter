@@ -94,8 +94,8 @@
     v(2pt)
     align(left, {
         text(10pt, weight: "regular")[Sincerely,\ ]
+        image("signature.png", alt: d.name, width: 10%)
         text(10pt, weight: "regular")[#d.name]
-        image("signature.png", alt: d.name, width: 20%)
     })
 }
 
